@@ -1,4 +1,4 @@
-Traffic Violation Detection using YOLOv8 🚦
+Traffic Violation Detection using YOLOv8 
 Giới thiệu
 
 Dự án này xây dựng hệ thống nhận diện vi phạm giao thông sử dụng YOLOv8 và Computer Vision.
