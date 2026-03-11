@@ -52,11 +52,9 @@ traffic-violation-detection
 ├── main.py
 │
 └── yolov8n.pt
-Mô tả các file
-main.py
-
+Mô tả các file:
+-main.py
 File chạy chính của chương trình, kết hợp tất cả các module để phát hiện vi phạm giao thông.
-
 detect.py
 
 Sử dụng YOLOv8 để phát hiện các phương tiện giao thông trong video hoặc camera.
