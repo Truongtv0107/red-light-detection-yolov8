@@ -1,19 +1,18 @@
 Traffic Violation Detection using YOLOv8 
-Giới thiệu
-
+Giới thiệu:
 Dự án này xây dựng hệ thống nhận diện vi phạm giao thông sử dụng YOLOv8 và Computer Vision.
 Được xây dựng bởi : Trần Việt Trường ( SĐT 0333999726)
 Hệ thống có khả năng:
 
-Phát hiện phương tiện giao thông
+-Phát hiện phương tiện giao thông
 
-Theo dõi phương tiện
+-Theo dõi phương tiện
 
-Phát hiện vượt đèn đỏ
+-Phát hiện vượt đèn đỏ
 
-Nhận diện biển số xe
+-Nhận diện biển số xe
 
-Xuất báo cáo vi phạm
+-Xuất báo cáo vi phạm
 
 Ứng dụng trong:
 
@@ -85,3 +84,4 @@ Kiểm tra vị trí phương tiện so với vạch dừng hoặc vùng vi ph�
 report.py
 
 Tạo báo cáo vi phạm giao thông.
+DO NOT REUP ( liên hệ để xin quyền tham khảo )
